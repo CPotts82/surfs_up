@@ -28,12 +28,12 @@ See Below - histogram that visualizes the frequency of the temperatures for the 
 
 
 ## Summary
-
+### Overall Analysis
 
 
 
 ### Additional - Precipitation Queries for June and December
-#### June Precipitation Results
+### June Precipitation Results
 - Average Daily Precipitation - 0.134
 - Minimum Daily Precipitation - 0.000
 - Maximum Daily Precipitation - 4.430
@@ -43,7 +43,7 @@ See Below - Table of Statistics that includes the count, standard deviation and 
 ![June_Precipitation](https://user-images.githubusercontent.com/106348899/183998178-d352b584-959d-4ff8-a429-439087059140.png)
 
 
-#### December Precipitation Results
+### December Precipitation Results
 - Average Daily Precipitation - 0.217
 - Minimum Daily Precipitation - 0.000
 - Maximum Daily Precipitation - 6.420
