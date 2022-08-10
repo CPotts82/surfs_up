@@ -22,7 +22,8 @@ Included is a histogram that visualizes the frequency of the temperatures for th
 - Maximum Daily Temperaure - 83.00 degrees
 Included is a histogram that visualizes the frequency of the temperatures for the month of December from 2010 to 2017 in Oahu.
 
-![December_Temps](https://user-images.githubusercontent.com/106348899/183989287-d43c52fc-7f2a-478d-a5cc-544662496c3a.png)
+![December_Temperatures](https://user-images.githubusercontent.com/106348899/183990216-5ba69aa5-953d-4223-9e3f-de7844e27b07.png)
+
 
 
 
