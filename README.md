@@ -13,7 +13,7 @@ The following results for June and December were taken from data spanning Januar
 - Maximum Daily Temperaure - 85.00 degrees
 Included is a histogram that visualizes the frequency of the temperatures for the month of June from 2010 to 2017 in Oahu.
 
-
+![June_Temperatures](https://user-images.githubusercontent.com/106348899/183990692-7999bff4-cceb-40c0-9a60-3f00ae680bb0.png)
 
 
 ### December Temerature Results
