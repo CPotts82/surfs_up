@@ -12,14 +12,18 @@ The following results for June and December were taken from data spanning Januar
 - Minimum Daily Temperature - 64.00 degrees
 - Maximum Daily Temperaure - 85.00 degrees
 Included is a histogram that visualizes the frequency of the temperatures for the month of June from 2010 to 2017 in Oahu.
-![June_Temps](https://user-images.githubusercontent.com/106348899/183987184-0cf117cd-66fe-4c7d-8c6a-180409216af8.png)
+
+![June_Temps](https://user-images.githubusercontent.com/106348899/183989361-b3bdfe31-e064-406c-87f9-479bb2d46349.png)
+
 
 ### December Temerature Results
 - Average Daily Temperature - 71.04 degrees
 - Minimum Daily Temperature - 56.00 degrees
 - Maximum Daily Temperaure - 83.00 degrees
 Included is a histogram that visualizes the frequency of the temperatures for the month of December from 2010 to 2017 in Oahu.
-![December_Temps](https://user-images.githubusercontent.com/106348899/183987372-6b65961c-2b96-4578-a40f-1d2fc962b8b5.png)
+
+![December_Temps](https://user-images.githubusercontent.com/106348899/183989287-d43c52fc-7f2a-478d-a5cc-544662496c3a.png)
+
 
 
 ## Summary
