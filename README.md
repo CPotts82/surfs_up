@@ -29,10 +29,11 @@ See Below - histogram that visualizes the frequency of the temperatures for the 
 
 ## Summary
 ### Overall Analysis
-This analysis focused on the temperatures for the months of June and December for the years 2010 through 2017.  The histograms with the results of the June and December temperatures show that while they do have low temperatures of 56 and 64 degrees, the frequency of those low temperatures is also low, meaning that low temperatures do not happen very often.  The temperatures that occur with the most frequency for June are between 70 and 77 degrees. For December, the most frequently occurring temperatures are between 69 and 77 degrees.  These warm temperatures are great for surfing and ice cream!  There will be chilly days in the fifties and sixties but they will not happen often.  And there will also be hot days with highs in the eighties, these days are most definitely welcome when it comes to surfing and a cold treat.  The temperature trneds show that this business is sustainable year round. (With the climate change situation occuring and locations heating up, the demand for recreation that cools one off will be in demand.)
-
+This analysis focused on the temperatures for the months of June and December for the years 2010 through 2017.  The histograms with the results of the June and December temperatures show that while they do have low temperatures of 56 and 64 degrees, the frequency of those low temperatures is also low, meaning that low temperatures do not happen very often.  The temperatures that occur with the most frequency for June are between 70 and 77 degrees. For December, the most frequently occurring temperatures are between 69 and 77 degrees.  These warm temperatures are great for surfing and ice cream!  There will be chilly days in the fifties and sixties but they will not happen often.  And there will also be hot days with highs in the eighties, these days are most definitely welcome when it comes to surfing and a cold treat.  The temperature trends show that this business is sustainable year round. (With the climate change situation occuring and locations heating up, the demand for recreation that cools one off will be in demand.)
 
 ### Additional - Precipitation Queries for June and December
+The investors only asked for an analysis of temperatures for June and December but temperature alone is not a complete assessment. Included is an analysis of precipitation for the months of June and December. Too much rain could be detrimental to a business as well as too cold of temperatures. The precipitation was assessed for all months of June and December from 2010 to 2017.  
+
 ### June Precipitation Results
 - Average Daily Precipitation - 0.134
 - Minimum Daily Precipitation - 0.000
